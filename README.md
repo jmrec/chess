@@ -1,2 +1,1 @@
-# chess
-Personal Project [1]
+# Terminal Chess With Haskell
